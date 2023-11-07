@@ -1,0 +1,14 @@
+[
+    {
+        "ma": "HV001",
+        "ten": "Ly Tieu Man",
+        "diem": 8,
+        "gioi tinh": true
+    },
+    {
+        "ma": "HV002",
+        "ten": "Ly Tieu Long",
+        "diem": 8,
+        "gioi tinh": false
+    }
+]
